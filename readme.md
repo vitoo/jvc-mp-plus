@@ -1,5 +1,5 @@
 # JVC MP Plus
-JVC ajoute des fonctionnalités aux MP.
+JVC MP Plus ajoute des fonctionnalités aux MP.
 
 - Meilleure pagination
 - C'est tout pour le moment (proposez vos idées)
