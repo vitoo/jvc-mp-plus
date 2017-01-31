@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JVC MP Plus
 // @namespace    https://github.com/vitoo
-// @version      0.1
+// @version      0.2
 // @description  Ajout de fonctionnalité aux MP
 // @author       vitoo
 // @match        http://www.jeuxvideo.com/messages*

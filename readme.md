@@ -15,7 +15,7 @@ Après :
 
 ## Prérequis
 
-Tampermonkey (Chrome) ou Greasemonkey (Firefox) ou équivalent sur votre navigateur. 
+[Tampermonkey (Chrome)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr) ou [Greasemonkey (Firefox)](https://addons.mozilla.org/fr/firefox/addon/greasemonkey/) ou équivalent sur votre navigateur. 
 
 ## Installation
 
