@@ -23,12 +23,13 @@ var id_mp = result[2];
 var offset = parseInt(result[3]);
 paginations.forEach(function (element, idx, array) {
     if (idx === array.length - 1) {
+        //dernier bouton on affiche 'message'
         var message = " messages";
     }
     else {
         var message = "";
     }
-
+    //if offset > element :
     var offset_loop = offset + (25) - element;
     var html = '<a href="/messages-prives/message.php?id=' + id_mp + '&amp;offset=' + offset_loop + '&amp;folder=1" class="btn btn-25-msg" sl-processed="1">< ' + element + message + ' </a>&nbsp;';
     jQuery('.pagination > div.action-center').append(html);
